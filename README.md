@@ -1,6 +1,6 @@
-# Обновленная версия Русской локализации Counter-Strike Online 2 Global
-
 ![4d51348a67e197aeefe296d4bc379d24 копия](https://user-images.githubusercontent.com/28530397/196241949-bc869cdb-4374-4604-a6a0-4766cea7d933.png)
+
+# Обновленная версия Русской локализации Counter-Strike Online 2 Global
 
 Русская локализация для игры Counter-Strike Online 2 Global
 
