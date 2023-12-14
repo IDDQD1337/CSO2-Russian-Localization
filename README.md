@@ -20,7 +20,3 @@
 ```
 start launcher.exe -lang russian -masterip global -decryptedfiles -enablecustom -login ВАШ_ЛОГИН -password ВАШ_ПАРОЛЬ
 ```
-
-# Развитие
-
-Вы можете оставить свой отзыв (Feedback) или дополнительную помощь к улучшению локализации, я буду этому рад
